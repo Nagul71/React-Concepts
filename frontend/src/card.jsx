@@ -2,7 +2,7 @@ import React from 'react'
 import { IoLogoLinkedin } from "react-icons/io5";
 import { BsTwitterX } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa";
-
+import Sidebar from './Sidebar';
 function Card() {
     const user = {
         name: "Nagul K",
